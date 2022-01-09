@@ -1,0 +1,265 @@
+[INFO ] 2022-01-09 12:59:35.525 [main] Test - This is a test log file
+[INFO ] 2022-01-09 18:52:27.699 [main] baseclass - Invoking Chrome
+[INFO ] 2022-01-09 18:52:27.829 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 18:52:27.832 [main] baseclass - getting base url
+[INFO ] 2022-01-09 18:52:27.833 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 18:52:27.844 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 18:52:29.424 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 18:52:29.574 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 18:57:38.026 [main] baseclass - Invoking Chrome
+[INFO ] 2022-01-09 18:57:38.157 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 18:57:38.160 [main] baseclass - getting base url
+[INFO ] 2022-01-09 18:57:38.161 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 18:57:38.171 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 18:57:39.676 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 18:57:39.832 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 18:58:52.584 [main] baseclass - Invoking Chrome
+[INFO ] 2022-01-09 18:58:52.726 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 18:58:52.730 [main] baseclass - getting base url
+[INFO ] 2022-01-09 18:58:52.730 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 18:58:52.741 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 18:58:54.269 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 18:58:55.912 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 19:00:04.940 [main] baseclass - Invoking Chrome
+[INFO ] 2022-01-09 19:00:05.067 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 19:00:05.072 [main] baseclass - getting base url
+[INFO ] 2022-01-09 19:00:05.072 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 19:00:05.082 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 19:00:06.944 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 19:00:08.588 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 19:26:46.198 [main] baseclass - Invoking Chrome
+[INFO ] 2022-01-09 19:26:46.321 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 19:26:46.327 [main] baseclass - getting base url
+[INFO ] 2022-01-09 19:26:46.327 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 19:26:46.351 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 19:26:47.958 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 19:26:49.643 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 19:27:22.081 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 19:27:22.345 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 19:27:22.351 [main] baseclass - getting base url
+[INFO ] 2022-01-09 19:27:22.351 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 19:27:22.372 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 19:27:26.067 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 19:27:28.168 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 19:28:57.663 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 19:28:57.927 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 19:28:57.932 [main] baseclass - getting base url
+[INFO ] 2022-01-09 19:28:57.932 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 19:28:57.943 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 19:28:59.407 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 19:29:01.624 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 19:29:44.034 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 19:29:44.300 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 19:29:44.305 [main] baseclass - getting base url
+[INFO ] 2022-01-09 19:29:44.305 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 19:29:44.315 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 19:29:46.534 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 19:29:48.732 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 19:33:33.902 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 19:33:34.172 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 19:33:34.177 [main] baseclass - getting base url
+[INFO ] 2022-01-09 19:33:34.177 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 19:33:34.187 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 19:33:35.796 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 19:33:38.021 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:03:38.500 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:03:38.768 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:03:38.774 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:03:38.774 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:03:38.783 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:03:40.286 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:03:42.494 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:04:44.105 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:04:44.374 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:04:44.379 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:04:44.379 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:04:44.390 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:04:45.876 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:04:48.082 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:05:17.883 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:05:18.153 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:05:18.158 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:05:18.158 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:05:18.168 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:05:19.665 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:05:21.878 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:06:57.937 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:06:58.202 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:06:58.207 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:06:58.207 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:06:58.217 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:06:59.691 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:07:02.928 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:08:01.955 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:08:02.222 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:08:02.227 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:08:02.227 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:08:02.238 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:08:03.725 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:08:06.953 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:09:38.839 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:09:39.112 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:09:39.117 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:09:39.117 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:09:39.127 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:09:40.653 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:09:43.920 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:17:50.766 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:17:51.042 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:17:51.046 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:17:51.047 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:17:51.056 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:17:52.557 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:17:53.564 [main] TC_RF_001 - Sleeping for 1 sec
+[INFO ] 2022-01-09 20:17:54.255 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:18:56.463 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:18:56.737 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:18:56.742 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:18:56.742 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:18:56.752 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:18:58.671 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:18:59.683 [main] TC_RF_001 - Sleeping for 1 sec
+[INFO ] 2022-01-09 20:19:00.389 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 20:25:54.865 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 20:25:55.133 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 20:25:55.137 [main] baseclass - getting base url
+[INFO ] 2022-01-09 20:25:55.137 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 20:25:55.159 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 20:25:56.634 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 20:25:57.637 [main] TC_RF_001 - Sleeping for 1 sec
+[INFO ] 2022-01-09 20:25:57.869 [main] TC_RF_001 - Clicked myaccount btn
+[INFO ] 2022-01-09 20:25:59.107 [main] TC_RF_001 - Clicked Register btn under my account
+[INFO ] 2022-01-09 20:25:59.149 [main] TC_RF_001 - Sent First name from prop
+[INFO ] 2022-01-09 20:25:59.165 [main] TC_RF_001 - Sent Last name
+[INFO ] 2022-01-09 20:25:59.191 [main] TC_RF_001 - Sent email address
+[INFO ] 2022-01-09 20:25:59.209 [main] TC_RF_001 - Sent telephone
+[INFO ] 2022-01-09 20:25:59.225 [main] TC_RF_001 - Sent password
+[INFO ] 2022-01-09 20:25:59.244 [main] TC_RF_001 - Sent confirm password
+[INFO ] 2022-01-09 20:25:59.461 [main] TC_RF_001 - Accepted privacy
+[INFO ] 2022-01-09 20:26:01.806 [main] TC_RF_001 - Clicked submit
+[INFO ] 2022-01-09 20:26:03.821 [main] TC_RF_001 - TC_RF_001 Passed
+[INFO ] 2022-01-09 20:26:04.492 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 21:35:17.035 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 21:35:17.312 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 21:35:17.316 [main] baseclass - getting base url
+[INFO ] 2022-01-09 21:35:17.316 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 21:35:17.339 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 21:35:20.268 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 21:35:21.281 [main] TC_RF_001 - Sleeping for 1 sec
+[INFO ] 2022-01-09 21:35:21.507 [main] TC_RF_001 - Clicked myaccount btn
+[INFO ] 2022-01-09 21:35:22.957 [main] TC_RF_001 - Clicked Register btn under my account
+[INFO ] 2022-01-09 21:35:23.001 [main] TC_RF_001 - Sent First name from prop
+[INFO ] 2022-01-09 21:35:23.019 [main] TC_RF_001 - Sent Last name
+[INFO ] 2022-01-09 21:35:23.047 [main] TC_RF_001 - Sent email address
+[INFO ] 2022-01-09 21:35:23.065 [main] TC_RF_001 - Sent telephone
+[INFO ] 2022-01-09 21:35:23.090 [main] TC_RF_001 - Sent password
+[INFO ] 2022-01-09 21:35:23.107 [main] TC_RF_001 - Sent confirm password
+[INFO ] 2022-01-09 21:35:23.325 [main] TC_RF_001 - Accepted privacy
+[INFO ] 2022-01-09 21:35:24.849 [main] TC_RF_001 - Clicked submit
+[INFO ] 2022-01-09 21:35:29.544 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 21:35:31.709 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 21:35:31.965 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 21:35:31.969 [main] baseclass - getting base url
+[INFO ] 2022-01-09 21:35:31.969 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 21:35:31.970 [main] TC_RF_002 - 
+[INFO ] 2022-01-09 21:35:33.633 [main] TC_RF_002 - opened base url
+[INFO ] 2022-01-09 21:35:34.638 [main] TC_RF_002 - Sleeping for 1 sec
+[INFO ] 2022-01-09 21:35:34.864 [main] TC_RF_002 - Clicked myaccount btn
+[INFO ] 2022-01-09 21:35:36.108 [main] TC_RF_002 - Clicked Register btn under my account
+[INFO ] 2022-01-09 21:35:36.133 [main] TC_RF_002 - Sent First name from prop
+[INFO ] 2022-01-09 21:35:36.149 [main] TC_RF_002 - Sent Last name
+[INFO ] 2022-01-09 21:35:36.175 [main] TC_RF_002 - Sent email address
+[INFO ] 2022-01-09 21:35:36.192 [main] TC_RF_002 - Sent telephone
+[INFO ] 2022-01-09 21:35:36.207 [main] TC_RF_002 - Sent password
+[INFO ] 2022-01-09 21:35:36.230 [main] TC_RF_002 - Sent confirm password
+[INFO ] 2022-01-09 21:35:36.445 [main] TC_RF_002 - Accepted privacy
+[INFO ] 2022-01-09 21:35:37.778 [main] TC_RF_002 - Clicked submit
+[INFO ] 2022-01-09 21:35:37.784 [main] TC_RF_002 - Verifying Email confirmation sent to mail
+[INFO ] 2022-01-09 21:35:39.881 [main] TC_RF_002 - Opening proton email
+[INFO ] 2022-01-09 21:35:40.819 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 21:41:42.460 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 21:41:42.732 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 21:41:42.737 [main] baseclass - getting base url
+[INFO ] 2022-01-09 21:41:42.737 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 21:41:42.757 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 21:41:44.311 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 21:41:45.318 [main] TC_RF_001 - Sleeping for 1 sec
+[INFO ] 2022-01-09 21:41:45.545 [main] TC_RF_001 - Clicked myaccount btn
+[INFO ] 2022-01-09 21:41:46.787 [main] TC_RF_001 - Clicked Register btn under my account
+[INFO ] 2022-01-09 21:41:46.827 [main] TC_RF_001 - Sent First name from prop
+[INFO ] 2022-01-09 21:41:46.843 [main] TC_RF_001 - Sent Last name
+[INFO ] 2022-01-09 21:41:46.871 [main] TC_RF_001 - Sent email address
+[INFO ] 2022-01-09 21:41:46.889 [main] TC_RF_001 - Sent telephone
+[INFO ] 2022-01-09 21:41:46.909 [main] TC_RF_001 - Sent password
+[INFO ] 2022-01-09 21:41:46.925 [main] TC_RF_001 - Sent confirm password
+[INFO ] 2022-01-09 21:41:47.140 [main] TC_RF_001 - Accepted privacy
+[INFO ] 2022-01-09 21:41:48.443 [main] TC_RF_001 - Clicked submit
+[INFO ] 2022-01-09 21:41:53.143 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 21:41:55.421 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 21:41:55.683 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 21:41:55.686 [main] baseclass - getting base url
+[INFO ] 2022-01-09 21:41:55.686 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 21:41:55.688 [main] TC_RF_002 - 
+[INFO ] 2022-01-09 21:41:57.327 [main] TC_RF_002 - opened base url
+[INFO ] 2022-01-09 21:41:58.330 [main] TC_RF_002 - Sleeping for 1 sec
+[INFO ] 2022-01-09 21:41:58.555 [main] TC_RF_002 - Clicked myaccount btn
+[INFO ] 2022-01-09 21:41:59.791 [main] TC_RF_002 - Clicked Register btn under my account
+[INFO ] 2022-01-09 21:41:59.813 [main] TC_RF_002 - Sent First name from prop
+[INFO ] 2022-01-09 21:41:59.831 [main] TC_RF_002 - Sent Last name
+[INFO ] 2022-01-09 21:41:59.859 [main] TC_RF_002 - Sent email address
+[INFO ] 2022-01-09 21:41:59.879 [main] TC_RF_002 - Sent telephone
+[INFO ] 2022-01-09 21:41:59.894 [main] TC_RF_002 - Sent password
+[INFO ] 2022-01-09 21:41:59.912 [main] TC_RF_002 - Sent confirm password
+[INFO ] 2022-01-09 21:42:00.130 [main] TC_RF_002 - Accepted privacy
+[INFO ] 2022-01-09 21:42:01.424 [main] TC_RF_002 - Clicked submit
+[INFO ] 2022-01-09 21:42:01.428 [main] TC_RF_002 - Verifying Email confirmation sent to mail
+[INFO ] 2022-01-09 21:42:03.440 [main] TC_RF_002 - Opening proton email
+[INFO ] 2022-01-09 21:42:08.530 [main] TC_RF_002 - Setting email id
+[INFO ] 2022-01-09 21:42:08.562 [main] TC_RF_002 - Setting password
+[INFO ] 2022-01-09 21:42:13.795 [main] TC_RF_002 - logging in
+[INFO ] 2022-01-09 21:42:23.278 [main] TC_RF_002 - checking inbox
+[INFO ] 2022-01-09 21:42:23.757 [main] TC_RF_002 - searching for open cart email if any
+[INFO ] 2022-01-09 21:42:24.503 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 21:45:30.137 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 21:45:30.404 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 21:45:30.409 [main] baseclass - getting base url
+[INFO ] 2022-01-09 21:45:30.409 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 21:45:30.432 [main] TC_RF_001 - 
+[INFO ] 2022-01-09 21:45:33.369 [main] TC_RF_001 - opened base url
+[INFO ] 2022-01-09 21:45:34.373 [main] TC_RF_001 - Sleeping for 1 sec
+[INFO ] 2022-01-09 21:45:34.605 [main] TC_RF_001 - Clicked myaccount btn
+[INFO ] 2022-01-09 21:45:35.844 [main] TC_RF_001 - Clicked Register btn under my account
+[INFO ] 2022-01-09 21:45:35.886 [main] TC_RF_001 - Sent First name from prop
+[INFO ] 2022-01-09 21:45:35.902 [main] TC_RF_001 - Sent Last name
+[INFO ] 2022-01-09 21:45:35.930 [main] TC_RF_001 - Sent email address
+[INFO ] 2022-01-09 21:45:35.947 [main] TC_RF_001 - Sent telephone
+[INFO ] 2022-01-09 21:45:35.969 [main] TC_RF_001 - Sent password
+[INFO ] 2022-01-09 21:45:35.984 [main] TC_RF_001 - Sent confirm password
+[INFO ] 2022-01-09 21:45:36.202 [main] TC_RF_001 - Accepted privacy
+[INFO ] 2022-01-09 21:45:37.526 [main] TC_RF_001 - Clicked submit
+[INFO ] 2022-01-09 21:45:42.109 [main] baseclass - Closing Browser/Application
+[INFO ] 2022-01-09 21:45:44.395 [main] baseclass - invoking Firefox
+[INFO ] 2022-01-09 21:45:44.652 [main] baseclass - Maximizing browser window
+[INFO ] 2022-01-09 21:45:44.655 [main] baseclass - getting base url
+[INFO ] 2022-01-09 21:45:44.655 [main] baseclass - Opening base URL of Application
+[INFO ] 2022-01-09 21:45:44.656 [main] TC_RF_002 - 
+[INFO ] 2022-01-09 21:45:46.099 [main] TC_RF_002 - opened base url
+[INFO ] 2022-01-09 21:45:47.103 [main] TC_RF_002 - Sleeping for 1 sec
+[INFO ] 2022-01-09 21:45:47.329 [main] TC_RF_002 - Clicked myaccount btn
+[INFO ] 2022-01-09 21:45:48.579 [main] TC_RF_002 - Clicked Register btn under my account
+[INFO ] 2022-01-09 21:45:48.609 [main] TC_RF_002 - Sent First name from prop
+[INFO ] 2022-01-09 21:45:48.626 [main] TC_RF_002 - Sent Last name
+[INFO ] 2022-01-09 21:45:48.656 [main] TC_RF_002 - Sent email address
+[INFO ] 2022-01-09 21:45:48.672 [main] TC_RF_002 - Sent telephone
+[INFO ] 2022-01-09 21:45:48.690 [main] TC_RF_002 - Sent password
+[INFO ] 2022-01-09 21:45:48.706 [main] TC_RF_002 - Sent confirm password
+[INFO ] 2022-01-09 21:45:48.923 [main] TC_RF_002 - Accepted privacy
+[INFO ] 2022-01-09 21:45:50.251 [main] TC_RF_002 - Clicked submit
+[INFO ] 2022-01-09 21:45:50.254 [main] TC_RF_002 - Verifying Email confirmation sent to mail
+[INFO ] 2022-01-09 21:45:52.579 [main] TC_RF_002 - Opening proton email
+[INFO ] 2022-01-09 21:45:57.661 [main] TC_RF_002 - Setting email id
+[INFO ] 2022-01-09 21:45:57.695 [main] TC_RF_002 - Setting password
+[INFO ] 2022-01-09 21:46:02.935 [main] TC_RF_002 - logging in
+[INFO ] 2022-01-09 21:46:08.759 [main] TC_RF_002 - checking inbox
+[INFO ] 2022-01-09 21:46:09.201 [main] TC_RF_002 - searching for open cart email if any
+[INFO ] 2022-01-09 21:46:09.907 [main] baseclass - Closing Browser/Application
